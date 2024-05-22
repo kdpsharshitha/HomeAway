@@ -1,6 +1,5 @@
 Group 4
 Project: HomeAway
-github repo: https://github.com/shernoble/HomeAway-v3.git
 
 #Setup
 1. Create a folder in your desired location in your desktop.
