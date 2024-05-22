@@ -1,12 +1,13 @@
 Group 4
 Project: HomeAway
+github repo: https://github.com/kdpsharshitha/HomeAway.git
 
 #Setup
 1. Create a folder in your desired location in your desktop.
 2. In cmd or any other terminal, go to the current working directory and type the below:
    git init
 this will initialize a repository
-3. now enter the following : git clone https://github.com/shernoble/HomeAway-v3.git
+3. now enter the following : git clone https://github.com/kdpsharshitha/HomeAway.git
 4. the project is now cloned into your pc
 5. in terminal navigate to client with the command : cd client
 6. in another instance of the terminal navigate to server with the command: cd server
